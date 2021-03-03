@@ -40,13 +40,7 @@ const Layout = ({ children }) => (
       <>
         <Header siteTitle={data.site.siteMetadata.title} />
         <Content>
-          <main>{children}</main>
-          <Footer>
-            <p>
-            © {new Date().getFullYear()} carlostrujillo90.com
-            {` `}
-            </p>
-          </Footer>
+          <main>{children}</main>          
         </Content>
       </>
     )}

@@ -11,7 +11,7 @@ const Content = styled.div`
 
 const NavLink = styled(Link)`
   color: black;
-  margin-left: 15px;
+  margin-left: 100px;
   text-decoration: none;
   display: inline-block;
   position: relative;
@@ -52,7 +52,7 @@ const Header = ({ siteTitle }) => (
       <p>
         <HomeLink to="/">Podcast</HomeLink>
         <NavLink to="/blog">Blog</NavLink>
-        <NavLink to="/about">About</NavLink>        
+        {/* <NavLink to="/about">Contacto</NavLink> */}
       </p>
     </Content>
   </SiteHeader>

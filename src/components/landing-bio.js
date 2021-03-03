@@ -57,17 +57,17 @@ const LandingBio = () => (
             <a href="https://radiopublic.com/entre-cubanos-8g1V2p" target='_blank' rel="noreferrer"><img src={radiopublic_logo} className="podcast-img" alt="Radio Public" style={{ width: '50px',	height: '50px', margin: '12px 4px 0'}}/></a>								
             <a href="https://www.breaker.audio/entre-cubanos" target='_blank' rel="noreferrer"><img src={breaker_logo} className="podcast-img" alt="Breaker" style={{ width: '50px',	height: '50px', margin: '12px 4px 0'}}/></a>								
           </p>
-          <h5 style={{marginBottom: '4px', marginTop: '72px'}}>Suscríbete para recibir actualizaciones</h5>
+          <h5 style={{marginBottom: '4px'}}>Suscríbete para recibir actualizaciones</h5>
 
           <Form action="https://gmail.us1.list-manage.com/subscribe/post?u=faf1f03b14863edbee03848e0&amp;id=502c238860" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" novalidate>
             <Form.Group controlId="formBasicName">              
-              <Form.Control type="text" name="FNAME" placeholder="Nombre" style={{width: '60%', margin: '8px 0', paddingLeft: '10px'}}/>
+              <Form.Control type="text" name="FNAME" placeholder="Nombre" style={{width: '60%', margin: '8px 0', paddingLeft: '10px', borderRadius: '8px'}}/>
             </Form.Group>
             <Form.Group controlId="formBasicEmail">
-              <Form.Control name="EMAIL" type="email" placeholder="Email" style={{width: '60%', margin: '8px 0 16px', paddingLeft: '10px'}}/>
+              <Form.Control name="EMAIL" type="email" placeholder="Email" style={{width: '60%', margin: '8px 0 16px', paddingLeft: '10px', borderRadius: '8px'}}/>
             </Form.Group>            
             <Button variant="primary" type="submit" name="subscribe" style={{"backgroundColor":"#44c767","borderRadius":"28px","border":"1px solid #18ab29","display":"inline-block","cursor":"pointer","color":"#ffffff","fontFamily":"Arial","fontSize":"17px","padding":"8px 28px","textDecoration":"none","textShadow":"0px 1px 0px #2f6627"}}>
-              Submit
+              Suscribir
             </Button>
           </Form>
         </Container>
