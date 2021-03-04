@@ -61,13 +61,13 @@ const LandingBio = () => (
 
           <Form action="https://gmail.us1.list-manage.com/subscribe/post?u=faf1f03b14863edbee03848e0&amp;id=502c238860" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" novalidate>
             <Form.Group controlId="formBasicName">              
-              <Form.Control type="text" name="FNAME" placeholder="Nombre" style={{width: '60%', margin: '8px 0', paddingLeft: '10px', borderRadius: '8px'}}/>
+              <Form.Control type="text" name="FNAME" placeholder="Nombre" style={{width: '60%', margin: '8px 0', paddingLeft: '10px', border: '1px solid black', borderRadius: '8px'}}/>
             </Form.Group>
             <Form.Group controlId="formBasicEmail">
-              <Form.Control name="EMAIL" type="email" placeholder="Email" style={{width: '60%', margin: '8px 0 16px', paddingLeft: '10px', borderRadius: '8px'}}/>
+              <Form.Control name="EMAIL" type="email" placeholder="Email" style={{width: '60%', margin: '8px 0 16px', paddingLeft: '10px', border: '1px solid black', borderRadius: '8px'}}/>
             </Form.Group>            
             <Button variant="primary" type="submit" name="subscribe" style={{"backgroundColor":"#44c767","borderRadius":"28px","border":"1px solid #18ab29","display":"inline-block","cursor":"pointer","color":"#ffffff","fontFamily":"Arial","fontSize":"17px","padding":"8px 28px","textDecoration":"none","textShadow":"0px 1px 0px #2f6627"}}>
-              Suscribir
+              Suscribir 
             </Button>
           </Form>
         </Container>
