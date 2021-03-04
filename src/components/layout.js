@@ -20,11 +20,6 @@ const Content = styled.div`
   padding-top: 0;
 `
 
-const Footer = styled.footer`
-  display: flex;
-  justify-content: center;
-`
-
 const Layout = ({ children }) => (
   <StaticQuery
     query={graphql`

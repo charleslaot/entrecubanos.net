@@ -50,12 +50,12 @@ const LandingBio = () => (
           <p>Ultimo Episodio</p>
           <iframe title="Podcast Player" src="https://anchor.fm/entrecubanos/embed" height="102px" width="400px" frameborder="0" scrolling="no" style={{width: '100%', marginBottom: '16px'}}></iframe>
           <p>Escucha mas episodios en <br />
-            <a href="https://open.spotify.com/show/7tPegKMaz5ePNDyqEL9z84" target='_blank' rel="noreferrer"><img src={spotify_logo} className="podcast-img" alt="Spotify" style={{ width: '50px',	height: '50px', margin: '12px 4px 0'}}/></a>
-            <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8xMmNlNzMzOC9wb2RjYXN0L3Jzcw==" target='_blank' rel="noreferrer"><img src={google_logo} className="podcast-img" alt="Google Podcast" style={{border: '1px solid lightsalmon', borderRadius: '6px', width: '50px',	height: '50px', margin: '12px 4px 0'}} /></a>
-            <a href="https://pca.st/b9ue3b66" target='_blank' rel="noreferrer"><img src={pocketcasts_logo} className="podcast-img" alt="Pocketcast" style={{ width: '50px',	height: '50px', margin: '12px 4px 0'}}/></a>
-            <a href="https://overcast.fm/itunes1501367579/entre-cubanos" target='_blank' rel="noreferrer"><img src={overcast_logo} className="podcast-img" alt="Overcast" style={{ width: '50px',	height: '50px', margin: '12px 4px 0'}}/></a>
-            <a href="https://radiopublic.com/entre-cubanos-8g1V2p" target='_blank' rel="noreferrer"><img src={radiopublic_logo} className="podcast-img" alt="Radio Public" style={{ width: '50px',	height: '50px', margin: '12px 4px 0'}}/></a>								
-            <a href="https://www.breaker.audio/entre-cubanos" target='_blank' rel="noreferrer"><img src={breaker_logo} className="podcast-img" alt="Breaker" style={{ width: '50px',	height: '50px', margin: '12px 4px 0'}}/></a>								
+            <a href="https://open.spotify.com/show/7tPegKMaz5ePNDyqEL9z84" target='_blank' rel="noreferrer"><img src={spotify_logo} className="podcast-img" alt="Spotify" style={{ width: '40px',	height: '40px', margin: '12px 4px 0'}}/></a>
+            <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8xMmNlNzMzOC9wb2RjYXN0L3Jzcw==" target='_blank' rel="noreferrer"><img src={google_logo} className="podcast-img" alt="Google Podcast" style={{border: '1px solid lightsalmon', borderRadius: '6px', width: '40px',	height: '40px', margin: '12px 4px 0'}} /></a>
+            <a href="https://pca.st/b9ue3b66" target='_blank' rel="noreferrer"><img src={pocketcasts_logo} className="podcast-img" alt="Pocketcast" style={{ width: '40px',	height: '40px', margin: '12px 4px 0'}}/></a>
+            <a href="https://overcast.fm/itunes1501367579/entre-cubanos" target='_blank' rel="noreferrer"><img src={overcast_logo} className="podcast-img" alt="Overcast" style={{ width: '40px',	height: '40px', margin: '12px 4px 0'}}/></a>
+            <a href="https://radiopublic.com/entre-cubanos-8g1V2p" target='_blank' rel="noreferrer"><img src={radiopublic_logo} className="podcast-img" alt="Radio Public" style={{ width: '40px',	height: '40px', margin: '12px 4px 0'}}/></a>								
+            <a href="https://www.breaker.audio/entre-cubanos" target='_blank' rel="noreferrer"><img src={breaker_logo} className="podcast-img" alt="Breaker" style={{ width: '40px',	height: '40px', margin: '12px 4px 0'}}/></a>								
           </p>
           <h5 style={{marginBottom: '4px'}}>Suscríbete para recibir actualizaciones</h5>
 
