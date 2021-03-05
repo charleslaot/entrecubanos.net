@@ -40,7 +40,7 @@ const LandingBio = () => (
           }
         }
       }
-    `}
+    `}    
     render={data => (
       <OuterContainer>
         <Container>
@@ -48,7 +48,7 @@ const LandingBio = () => (
           <h1 style={{letterSpacing: '1px', fontSize: '50px', fontFamily: 'Trebuchet MS'}}>Entre Cubanos</h1>
           <p style={{letterSpacing: 'normal'}}>Un podcast de <a href="https://www.facebook.com/carlostrujillo1990/" target="_blank" rel="noreferrer" style={{textDecoration: 'underline'}}>Carlos Trujillo</a></p>
           <p>Ultimo Episodio</p>
-          <iframe title="Podcast Player" src="https://anchor.fm/entrecubanos/embed" height="102px" width="400px" frameborder="0" scrolling="no" style={{width: '100%', marginBottom: '16px'}}></iframe>
+          <iframe title="Podcast Player" src="https://anchor.fm/entrecubanos/embed/episodes/03--Patria-Y-Libertad-erkiu5" height="102px" width="400px" frameborder="0" scrolling="no" style={{width: '100%', marginBottom: '16px'}}></iframe>
           <p>Escucha mas episodios en <br />
             <a href="https://open.spotify.com/show/7tPegKMaz5ePNDyqEL9z84" target='_blank' rel="noreferrer"><img src={spotify_logo} className="podcast-img" alt="Spotify" style={{ width: '40px',	height: '40px', margin: '12px 4px 0'}}/></a>
             <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8xMmNlNzMzOC9wb2RjYXN0L3Jzcw==" target='_blank' rel="noreferrer"><img src={google_logo} className="podcast-img" alt="Google Podcast" style={{border: '1px solid lightsalmon', borderRadius: '6px', width: '40px',	height: '40px', margin: '12px 4px 0'}} /></a>
