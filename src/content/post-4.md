@@ -22,6 +22,6 @@ Los amigos son para siempre, si mañana voy a cuba seguro veré muchos de los qu
 
 Cubículo 1 y 2... Los quiero mucho!
 
-Abrazo y saludos. 
+Abrazos y saludos. 
 
 José Carlos La O Trujillo
