@@ -21,5 +21,7 @@ Que paso con Fidel después de que se apropió del país, pues lo repartió como
 Los amigos son para siempre, si mañana voy a cuba seguro veré muchos de los que hoy leen esto y se enojan porque pienso diferente. Pero exactamente eso es lo que “ellos” quieren, dividirnos, que nos odiemos; yo te respeto mi hermano, si crees que el camino es por allí y esos son tus ideales, pues nada más que respeto y admiración para ti, pero me duele que no tengas oportunidad de ver más allá de lo que te han enseñado, y que por eso nos tienen divididos. Si alguno de ustedes mis hermanos me quieren escribir por privado, lo aplaudo, no quiero meter a nadie en problemas, ni quiero que nadie pierda el trabajo. Yo soy el mismo de siempre, un poco sobrepeso, menos alcohólico y con más miopía, pero el mismo de siempre. Ojala todo esto se resuelva y podamos todo compartir, tomar un trago, jugar futbol, ir al Mejunje, jugar domino, pelotita a la mano, futbol taca o solo conversar con buena música de fondo. 
 
 Cubículo 1 y 2... Los quiero mucho!
+
 Abrazo y saludos. 
+
 José Carlos La O Trujillo
