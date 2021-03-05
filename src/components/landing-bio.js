@@ -46,7 +46,7 @@ const LandingBio = () => (
         <Container>
           <span class="avatar"><img src="images/avatar.jpg" alt="" /></span>
           <h1 style={{letterSpacing: '1px', fontSize: '50px', fontFamily: 'Trebuchet MS'}}>Entre Cubanos</h1>
-          <p style={{letterSpacing: 'normal'}}>Un podcast de <a href="https://carlostrujillo90.com/" target="_blank" rel="noreferrer" style={{textDecoration: 'underline'}}>Carlos Trujillo</a></p>
+          <p style={{letterSpacing: 'normal'}}>Un podcast de <a href="https://www.facebook.com/carlostrujillo1990/" target="_blank" rel="noreferrer" style={{textDecoration: 'underline'}}>Carlos Trujillo</a></p>
           <p>Ultimo Episodio</p>
           <iframe title="Podcast Player" src="https://anchor.fm/entrecubanos/embed" height="102px" width="400px" frameborder="0" scrolling="no" style={{width: '100%', marginBottom: '16px'}}></iframe>
           <p>Escucha mas episodios en <br />

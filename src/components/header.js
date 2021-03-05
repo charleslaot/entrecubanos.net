@@ -54,7 +54,7 @@ const Header = ({ siteTitle }) => (
         <NavLink to="/blog">Blog</NavLink>
         {/* <NavLink to="/about">Contacto</NavLink> */}
       </p>
-    </Content>
+    </Content>    
   </SiteHeader>
 )
 
