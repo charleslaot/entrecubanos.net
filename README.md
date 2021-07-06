@@ -1,8 +1,8 @@
-# ENTRECUBANOS
+# ENTRE CUBANOS
 
 ## SUMMARY 
 
-EntreCubanos is a blog and a podcast about cuban inmigrants. 
+Entre Cubanos is a blog and a podcast about cuban inmigrants. 
 
 ## LIVE WEBSITE
 
