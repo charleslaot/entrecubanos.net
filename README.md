@@ -2,11 +2,11 @@
 
 ## SUMMARY 
 
-EntreCubaos is a blog and a podcast about cuban inmigrants. 
+EntreCubanos is a blog and a podcast about cuban inmigrants. 
 
 ## LIVE WEBSITE
 
-[EntreCubanos Website](https://entrecubanos.net/)
+[entrecubanos.net](https://entrecubanos.net/)
 
 ## TECHNOLOGIES USED
 
