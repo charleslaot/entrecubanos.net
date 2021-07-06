@@ -14,7 +14,7 @@ EntreCubaos is a blog and a podcast about cuban inmigrants.
 - React
 - React Bootstrap
 
-## Screenshots
+## SCREENSHOTS
 
 ![screenshot](src/images/ss1.png)
 
