@@ -13,6 +13,7 @@ EntreCubanos is a blog and a podcast about cuban inmigrants.
 - Gatsby
 - React
 - React Bootstrap
+- Emotion Styled
 
 ## SCREENSHOTS
 
