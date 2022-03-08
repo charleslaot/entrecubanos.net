@@ -631,3 +631,27 @@ a::selection {
     font-size: 100%;
   }
 }
+.podcast-icon {
+  font-size: 2em;
+  margin: 1rem 0.45rem 0;
+}
+
+.form-button {
+  color: white;
+  cursor: pointer;
+  font-size: 17px;
+  transition: 300ms;
+  padding: 8px 28px;
+  font-family: Arial;
+  border-radius: 28px;
+  display: inline-block;
+  text-decoration: none;
+  border: 1px solid white;
+  background-color: black;
+}
+
+.form-button:hover {
+  color: black;
+  border: 1px solid black;
+  background-color: white;
+}

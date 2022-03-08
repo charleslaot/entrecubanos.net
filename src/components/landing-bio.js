@@ -1,16 +1,10 @@
 import React from "react"
 import PropTypes from "prop-types"
+import styled from "@emotion/styled"
 import { StaticQuery, graphql } from "gatsby"
 import { Button, Form } from "react-bootstrap"
+import {SiApplepodcasts, SiGooglepodcasts, SiSpotify, SiPocketcasts, SiOvercast, SiRadiopublic, SiBreaker } from 'react-icons/si'
 
-import styled from "@emotion/styled"
-import applepodcast_logo from "../images/applepodcast@2x.png"
-import spotify_logo from "../images/spotify@2x.png"
-import google_logo from "../images/google_podcasts@2x.png"
-import pocketcasts_logo from "../images/pocket_casts@2x.png"
-import overcast_logo from "../images/overcast@2x.png"
-import radiopublic_logo from "../images/radiopublic@2x.png"
-import breaker_logo from "../images/breaker@2x.png"
 
 const Container = styled.div`
   text-align: center;
@@ -74,86 +68,45 @@ const LandingBio = () => (
               target="_blank"
               rel="noreferrer"
             >
-              <img
-                src={spotify_logo}
-                className="podcast-img"
-                alt="Spotify"
-                style={{ width: "40px", height: "40px", margin: "12px 4px 0" }}
-              />
+             <SiSpotify className="podcast-icon"/>
             </a>
             <a
               href="https://podcasts.apple.com/us/podcast/entre-cubanos/id1501367579"
               target="_blank"
               rel="noreferrer"
             >
-              <img
-                src={applepodcast_logo}
-                className="podcast-img"
-                alt="Apple Podcast"
-                style={{ width: "40px", height: "40px", margin: "12px 4px 0" }}
-              />
+              <SiApplepodcasts className="podcast-icon"/>
             </a>
             <a
               href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8xMmNlNzMzOC9wb2RjYXN0L3Jzcw=="
               target="_blank"
               rel="noreferrer"
             >
-              <img
-                src={google_logo}
-                className="podcast-img"
-                alt="Google Podcast"
-                style={{
-                  border: "1px solid lightsalmon",
-                  borderRadius: "6px",
-                  width: "40px",
-                  height: "40px",
-                  margin: "12px 4px 0",
-                }}
-              />
+              <SiGooglepodcasts className="podcast-icon"/>
             </a>
             <a href="https://pca.st/b9ue3b66" target="_blank" rel="noreferrer">
-              <img
-                src={pocketcasts_logo}
-                className="podcast-img"
-                alt="Pocketcast"
-                style={{ width: "40px", height: "40px", margin: "12px 4px 0" }}
-              />
+              <SiPocketcasts className="podcast-icon"/>
             </a>
             <a
               href="https://overcast.fm/itunes1501367579/entre-cubanos"
               target="_blank"
               rel="noreferrer"
             >
-              <img
-                src={overcast_logo}
-                className="podcast-img"
-                alt="Overcast"
-                style={{ width: "40px", height: "40px", margin: "12px 4px 0" }}
-              />
+              <SiOvercast className="podcast-icon"/>
             </a>
             <a
               href="https://radiopublic.com/entre-cubanos-8g1V2p"
               target="_blank"
               rel="noreferrer"
             >
-              <img
-                src={radiopublic_logo}
-                className="podcast-img"
-                alt="Radio Public"
-                style={{ width: "40px", height: "40px", margin: "12px 4px 0" }}
-              />
+              <SiRadiopublic className="podcast-icon"/>
             </a>
             <a
               href="https://www.breaker.audio/entre-cubanos"
               target="_blank"
               rel="noreferrer"
             >
-              <img
-                src={breaker_logo}
-                className="podcast-img"
-                alt="Breaker"
-                style={{ width: "40px", height: "40px", margin: "12px 4px 0" }}
-              />
+              <SiBreaker className="podcast-icon"/>
             </a>
           </p>
           <h5 style={{ marginBottom: "4px" }}>
@@ -200,19 +153,7 @@ const LandingBio = () => (
               variant="primary"
               type="submit"
               name="subscribe"
-              style={{
-                backgroundColor: "#44c767",
-                borderRadius: "28px",
-                border: "1px solid #18ab29",
-                display: "inline-block",
-                cursor: "pointer",
-                color: "#ffffff",
-                fontFamily: "Arial",
-                fontSize: "17px",
-                padding: "8px 28px",
-                textDecoration: "none",
-                textShadow: "0px 1px 0px #2f6627",
-              }}
+              className="form-button"
             >
               Suscribir
             </Button>
