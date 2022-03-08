@@ -14,11 +14,11 @@ import Header from "./header"
 import "./layout.css"
 
 const Content = styled.div`
-  margin: 0 auto;  
+  margin: 0 auto;
   padding: 0 1.0875rem 1rem;
   padding-top: 0;
   letter-spacing: 0.25px;
-  line-height: 30px;  
+  line-height: 30px;
   text-align: justify;
 `
 
@@ -35,9 +35,9 @@ const Layout = ({ children }) => (
     `}
     render={data => (
       <>
-        <Header siteTitle={data.site.siteMetadata.title} />
+        {/* <Header siteTitle={data.site.siteMetadata.title} /> */}
         <Content>
-          <main>{children}</main>          
+          <main>{children}</main>
         </Content>
       </>
     )}

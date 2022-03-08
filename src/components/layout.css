@@ -636,6 +636,10 @@ a::selection {
   margin: 1rem 0.45rem 0;
 }
 
+.podcast-icon:hover {
+  filter: invert(0.3);
+}
+
 .form-button {
   color: white;
   cursor: pointer;
@@ -654,4 +658,8 @@ a::selection {
   color: black;
   border: 1px solid black;
   background-color: white;
+}
+
+.subscribe-form {
+  margin-bottom: 5rem;
 }

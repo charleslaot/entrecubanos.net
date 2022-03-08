@@ -3,7 +3,19 @@ import PropTypes from "prop-types"
 import styled from "@emotion/styled"
 import { StaticQuery, graphql } from "gatsby"
 import { Button, Form } from "react-bootstrap"
-import {SiApplepodcasts, SiGooglepodcasts, SiSpotify, SiPocketcasts, SiOvercast, SiRadiopublic, SiBreaker } from 'react-icons/si'
+import {
+  SiFacebook,
+  SiTwitter,
+  SiYoutube,
+  SiInstagram,
+  SiAnchor,
+  SiApplepodcasts,
+  SiGooglepodcasts,
+  SiSpotify,
+  SiPocketcasts,
+  SiOvercast,
+  SiRadiopublic,
+  SiBreaker } from 'react-icons/si'
 
 
 const Container = styled.div`
@@ -12,10 +24,10 @@ const Container = styled.div`
 
 const OuterContainer = styled.div`
   display: flex;
+  margin-top: 0;
+  flex-direction: row;
   align-items: center;
   justify-content: center;
-  flex-direction: row;
-  height: 78vh;
 `
 
 const NameHeader = styled.h1`
@@ -51,7 +63,7 @@ const LandingBio = () => (
             Entre Cubanos
           </h1>
 
-          <p>Ultimo Episodio</p>
+          <p>Último Episodio</p>
           <iframe
             title="Podcast Player"
             src="https://anchor.fm/entrecubanos/embed/episodes/05--Energia--Crisis-en-Texas---ser-Ingeniero-en-EEUU-e1fd5cl"
@@ -62,7 +74,7 @@ const LandingBio = () => (
             style={{ width: "100%", marginBottom: "16px" }}
           ></iframe>
           <p>
-            Escucha mas episodios en <br />
+            Escucha más episodios en <br />
             <a
               href="https://open.spotify.com/show/7tPegKMaz5ePNDyqEL9z84"
               target="_blank"
@@ -95,6 +107,13 @@ const LandingBio = () => (
               <SiOvercast className="podcast-icon"/>
             </a>
             <a
+              href="https://anchor.fm/entrecubanos"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <SiAnchor className="podcast-icon"/>
+            </a>
+            <a
               href="https://radiopublic.com/entre-cubanos-8g1V2p"
               target="_blank"
               rel="noreferrer"
@@ -119,6 +138,7 @@ const LandingBio = () => (
             id="mc-embedded-subscribe-form"
             name="mc-embedded-subscribe-form"
             class="validate"
+            className="subscribe-form"
             novalidate
           >
             <Form.Group controlId="formBasicName">
@@ -158,6 +178,37 @@ const LandingBio = () => (
               Suscribir
             </Button>
           </Form>
+          <p>
+            Síguenos en <br />
+            <a
+              href="https://www.youtube.com/channel/UCHnKfWEj6tg35SekKlYF8_Q"
+              target="_blank"
+              rel="noreferrer"
+              >
+             <SiYoutube className="podcast-icon"/>
+            </a>
+            <a
+              href="https://www.facebook.com/Entre-Cubanos-101535415829927/"
+              target="_blank"
+              rel="noreferrer"
+              >
+             <SiFacebook className="podcast-icon"/>
+            </a>
+            <a
+              href="https://twitter.com/EntreCubanos"
+              target="_blank"
+              rel="noreferrer"
+              >
+             <SiTwitter className="podcast-icon"/>
+            </a>
+            <a
+              href="https://www.instagram.com/entrecubanos/"
+              target="_blank"
+              rel="noreferrer"
+              >
+             <SiInstagram className="podcast-icon"/>
+            </a>
+          </p>
         </Container>
       </OuterContainer>
     )}
