@@ -1,12 +1,14 @@
 code {
   background-color: hsla(0, 0%, 0%, 0.04);
 }
-
 body {
   margin: 0;
-  font-family: "Nunito", "Avenir", "Helvetica", "sans-serif";
-  -webkit-font-smoothing: antialiased;
+  background-size: cover;
+  background-repeat: no-repeat;
   -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-family: "Nunito", "Avenir", "Helvetica", "sans-serif";
+  background-image: url('../images/EC_Backdrop.webp');
 }
 article,
 aside,

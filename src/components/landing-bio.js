@@ -20,11 +20,14 @@ import {
 
 const Container = styled.div`
   text-align: center;
+  border-radius: 1rem;
+  padding: 1rem 2.5rem;
+  background-color: white;
 `
 
 const OuterContainer = styled.div`
   display: flex;
-  margin-top: 0;
+  margin-top: 3rem;
   flex-direction: row;
   align-items: center;
   justify-content: center;
@@ -57,7 +60,7 @@ const LandingBio = () => (
             style={{
               letterSpacing: "1px",
               fontSize: "50px",
-              fontFamily: "Trebuchet MS",
+              fontFamily: "Tahoma",
             }}
           >
             Entre Cubanos
