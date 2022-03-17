@@ -14,8 +14,8 @@ import {
   SiSpotify,
   SiPocketcasts,
   SiOvercast,
-  SiRadiopublic,
-  SiBreaker } from 'react-icons/si'
+  SiRadiopublic
+  } from 'react-icons/si'
 
 
 const Container = styled.div`
@@ -122,13 +122,6 @@ const LandingBio = () => (
               rel="noreferrer"
             >
               <SiRadiopublic className="podcast-icon"/>
-            </a>
-            <a
-              href="https://www.breaker.audio/entre-cubanos"
-              target="_blank"
-              rel="noreferrer"
-            >
-              <SiBreaker className="podcast-icon"/>
             </a>
           </p>
           <h5 style={{ marginBottom: "4px" }}>
