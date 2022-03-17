@@ -66,7 +66,7 @@ const LandingBio = () => (
           <p>Último Episodio</p>
           <iframe
             title="Podcast Player"
-            src="https://anchor.fm/entrecubanos/embed/episodes/05--Energia--Crisis-en-Texas---ser-Ingeniero-en-EEUU-e1fd5cl"
+            src="https://anchor.fm/entrecubanos/embed/episodes/06--Apple-e1fr4nu"
             height="102px"
             width="400px"
             frameborder="0"
