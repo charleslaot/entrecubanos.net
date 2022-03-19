@@ -13,7 +13,6 @@ import {
   SiGooglepodcasts,
   SiSpotify,
   SiPocketcasts,
-  SiOvercast,
   SiRadiopublic
   } from 'react-icons/si'
 
@@ -101,13 +100,6 @@ const LandingBio = () => (
             </a>
             <a href="https://pca.st/b9ue3b66" target="_blank" rel="noreferrer">
               <SiPocketcasts className="podcast-icon"/>
-            </a>
-            <a
-              href="https://overcast.fm/itunes1501367579/entre-cubanos"
-              target="_blank"
-              rel="noreferrer"
-            >
-              <SiOvercast className="podcast-icon"/>
             </a>
             <a
               href="https://anchor.fm/entrecubanos"
