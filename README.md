@@ -1,7 +1,7 @@
 # Entre Cubanos
 ## Summary
 
-Entre Cubanos is podcast about two cubans in the US that share their opinions about Cuba and the world. We release episodes weekly so don't miss out. Spanish required btw.
+Entre Cubanos is a podcast about two cubans in the US that share their opinions about Cuba and the world. We release episodes weekly so don't miss out. Spanish required btw.
 
 ## Live Website
 
