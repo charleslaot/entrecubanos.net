@@ -68,7 +68,7 @@ const LandingBio = () => (
           <p>Último Episodio</p>
           <iframe
             title="Podcast Player"
-            src="https://anchor.fm/entrecubanos/embed/episodes/06--Apple-e1fr4nu"
+            src="https://anchor.fm/entrecubanos/embed/episodes/07--Bitcoin--NFTs-e1gd7td"
             height="102px"
             width="400px"
             frameborder="0"
