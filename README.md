@@ -1,22 +1,23 @@
-# ENTRE CUBANOS
+# Entre Cubanos
+## Summary
 
-## SUMMARY 
+Entre Cubanos is podcast about two cubans in the US that share their opinions about Cuba and the world. We release episodes weekly so don't miss out. Spanish required btw.
 
-Entre Cubanos is a blog and a podcast about cuban inmigrants. 
-
-## LIVE WEBSITE
+## Live Website
 
 [entrecubanos.net](https://entrecubanos.net/)
 
-## TECHNOLOGIES USED
+## Technologies Used
 
+- HTML
+- CSS
+- Javascript
 - Gatsby
 - React
+- React Icons
 - React Bootstrap
 - Styled Components
 
-## SCREENSHOTS
+## Screenshot
 
 ![screenshot](src/images/ss1.png)
-
-![screenshot](src/images/ss2.png)
