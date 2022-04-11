@@ -68,7 +68,7 @@ const LandingBio = () => (
           <p>Último Episodio</p>
           <iframe
             title="Podcast Player"
-            src="https://anchor.fm/entrecubanos/embed/episodes/07--Bitcoin--NFTs-e1gd7td"
+            src="https://anchor.fm/entrecubanos/embed/episodes/08--Inversiones--Bienes-Raices-y-Mentalidad-con-Arian-Cabrera-e1h0q5b"
             height="102px"
             width="400px"
             frameborder="0"
