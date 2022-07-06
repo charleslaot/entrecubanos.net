@@ -68,7 +68,7 @@ const LandingBio = () => (
           <p>Último Episodio</p>
           <iframe
             title="Podcast Player"
-            src="https://anchor.fm/entrecubanos/embed/episodes/12--Aborcion-en-EEUU-Roe-v-Wade-e1klliu"
+            src="https://anchor.fm/entrecubanos/embed/episodes/13--Lightyear--la-controversia-e1kspi5"
             height="102px"
             width="400px"
             frameborder="0"
