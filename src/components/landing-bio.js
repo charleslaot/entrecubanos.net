@@ -68,7 +68,7 @@ const LandingBio = () => (
           <p>Último Episodio</p>
           <iframe
             title="Podcast Player"
-            src="https://anchor.fm/entrecubanos/embed/episodes/13--Lightyear--la-controversia-e1kspi5"
+            src="https://anchor.fm/entrecubanos/embed/episodes/14--Control-de-las-Armas-en-EEUU-e1kv59h"
             height="102px"
             width="400px"
             frameborder="0"
