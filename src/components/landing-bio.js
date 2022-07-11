@@ -68,7 +68,7 @@ const LandingBio = () => (
           <p>Último Episodio</p>
           <iframe
             title="Podcast Player"
-            src="https://anchor.fm/entrecubanos/embed/episodes/14--Control-de-las-Armas-en-EEUU-e1kv59h"
+            src="https://anchor.fm/entrecubanos/embed/episodes/15--Que-es-una-Mujer-e1l30hb"
             height="102px"
             width="400px"
             frameborder="0"
