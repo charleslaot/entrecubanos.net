@@ -68,7 +68,7 @@ const LandingBio = () => (
           <p>Último Episodio</p>
           <iframe
             title="Podcast Player"
-            src="https://anchor.fm/entrecubanos/embed/episodes/16--UFOs-en-Cuba-e1lo0sq"
+            src="https://anchor.fm/entrecubanos/embed/episodes/17--Hablemos-de-Entrevistas-de-Trabajo-e1mmoj2"
             height="102px"
             width="400px"
             frameborder="0"
