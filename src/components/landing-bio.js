@@ -68,7 +68,7 @@ const LandingBio = () => (
           <p>Último Episodio</p>
           <iframe
             title="Podcast Player"
-            src="https://anchor.fm/entrecubanos/embed/episodes/17--Hablemos-de-Entrevistas-de-Trabajo-e1mmoj2"
+            src="https://anchor.fm/entrecubanos/embed/episodes/18--Apple-y-El-Iphone-14-e1nldsn"
             height="102px"
             width="400px"
             frameborder="0"
